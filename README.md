@@ -1,8 +1,6 @@
-# deep-learning-challenge 
+# Deep-Learning
 
-This repository contains my solutions to Data Analytics Bootcamp Homework Assignment for week #21.<br>
-
-This assignment examines the performance of a TensorFlow Keras deep learning model and whether that performance can be enhanced with optimization and different data preprocessing techniques.<br>
+This project examines the performance of a TensorFlow Keras deep learning model and whether that performance can be enhanced with optimization and different data preprocessing techniques.<br>
 
 To examine the data, code files, and final report, their locations are indicated in the tree below.
 
