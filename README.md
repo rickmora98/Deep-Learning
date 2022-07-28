@@ -1,8 +1,12 @@
-# Machine-Learning-Deep
+# Machine-Learning-Deep (Charity Funding Success Predictor)
 
-This project utilizes a jupyter notebook to examine the performance of a TensorFlow Keras deep learning model and whether that performance can be enhanced with optimization and different data preprocessing techniques.<br>
+#### Overview:
+This project utilizes a TensorFlow Keras neural network model to predict the successfulness funding various charities for Alphabet Soup.
+It illustrates how prediction performance can be improved with various data preprocessing techniques and also careful model parameter optimization.
+<br>
 
-To examine the data, code files, and final report, their locations are indicated in the tree below.
+To examine the data, code files, and final report, their locations are indicated in the tree below. <br>
+(Note: the notebooks and h5 files should be run in Google Colaboratory.) <br>
 
 #### Files/Folders:
 
@@ -16,25 +20,21 @@ To examine the data, code files, and final report, their locations are indicated
 + **"Final Report"** (this folder contains the final report) <br>
 	- *"Deep Learning Final Report.pdf"* (read to find out the details of the model creation, optimization, and results) <br>
 	
-
-#### Note: <br>
-
-Please do not delete, move, rename, or alter any of these folders and/or files. <br>
-Also, the jupyter notebooks and h5 files should be run in Google Colaboratory. <br>
-Thank you. <br>
+(Please do not delete, move, rename, or alter!)
 
 #### Submitted by: <br>
  Ricardo G. Mora, Jr.  02/19/2022
  <br><br>
  
-Sample of code for reading the csv file: <br>
+#### Sample Code:
+Reading Data:<br>
 <img src="/Images/Read.jpg">
 
-Sample of code for optimizing the data: <br>
+Optimizing Data: <br>
 <img src="/Images/Optimize.jpg">
 
-Sample of code for creating the model: <br>
+Model Creation: <br>
 <img src="/Images/Model.jpg">
 
-Sample of code for evaluating the model's performance: <br>
+Model Performance Evaluation: <br>
 <img src="/Images/Evaluate.jpg">
