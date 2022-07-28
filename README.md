@@ -1,4 +1,4 @@
-# Machine-Learning-Deep (Charity Funding Success Predictor)
+# Charity Funding Success Predictor (Deep Machine Learning Demonstration)
 
 #### Overview:
 This project utilizes a TensorFlow Keras neural network model to predict the successfulness funding various charities for Alphabet Soup.
