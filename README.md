@@ -22,10 +22,7 @@ To examine the data, code files, and final report, their locations are indicated
 	
 (Please do not delete, move, rename, or alter!)
 
-#### Submitted by: <br>
- Ricardo G. Mora, Jr.  02/19/2022
- <br><br>
- 
+
 #### Sample Code:
 Reading Data:<br>
 <img src="/Images/Read.jpg">
