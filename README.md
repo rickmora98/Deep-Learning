@@ -1,4 +1,4 @@
-# Deep-Learning
+# Machine-Learning-Deep
 
 This project utilizes a jupyter notebook to examine the performance of a TensorFlow Keras deep learning model and whether that performance can be enhanced with optimization and different data preprocessing techniques.<br>
 
